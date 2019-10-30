@@ -1,0 +1,2 @@
+# AutomationHR
+Automatizar App HR
